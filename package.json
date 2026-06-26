@@ -1,0 +1,22 @@
+{
+  "name": "websts",
+  "version": "1.0.0",
+  "description": "\"# WevaTS\"",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Srini4Soft/WevaTS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Srini4Soft/WevaTS/issues"
+  },
+  "homepage": "https://github.com/Srini4Soft/WevaTS#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.0.1"
+  }
+}
